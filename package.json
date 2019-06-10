@@ -2,7 +2,7 @@
   "name": "react-turorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vasal19.github.io/react-turorial",
+  "homepage": "https://vasal19.github.io/react-tutorial",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
