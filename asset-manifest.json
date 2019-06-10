@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-turorial/static/css/main.c8b44c70.chunk.css",
+    "main.js": "/react-turorial/static/js/main.6a58ab7a.chunk.js",
+    "main.js.map": "/react-turorial/static/js/main.6a58ab7a.chunk.js.map",
+    "runtime~main.js": "/react-turorial/static/js/runtime~main.0ab19880.js",
+    "runtime~main.js.map": "/react-turorial/static/js/runtime~main.0ab19880.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-turorial/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-turorial/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-turorial/index.html",
+    "precache-manifest.9e20ae3a4104f299f4392ec989a90acc.js": "/react-turorial/precache-manifest.9e20ae3a4104f299f4392ec989a90acc.js",
+    "service-worker.js": "/react-turorial/service-worker.js",
+    "static/css/main.c8b44c70.chunk.css.map": "/react-turorial/static/css/main.c8b44c70.chunk.css.map"
+  }
+}
